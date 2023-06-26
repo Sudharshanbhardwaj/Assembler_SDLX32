@@ -68,7 +68,6 @@ opcodes = {
   'lbu': 50,
   'lhu': 51
 
-
 }
 
 Registers = {
